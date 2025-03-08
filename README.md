@@ -64,7 +64,6 @@ Video URL:
 
 https://drive.google.com/file/d/1VtJtcfYBeCBCh40OpnR2Kiv4NIGwF5bn/view
 
-ER Diagram:
 
 Conclusion:
 
